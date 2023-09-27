@@ -1,0 +1,392 @@
+/* @media(min-width:300px)and(max-width:1200px){ */
+    /*---topline--------------*/
+.topline{
+    flex: auto;
+    background-color: rgb(20, 131, 187);
+    margin: 0%;
+    width:100% ;
+    height: 28px;
+    display: flex;
+}
+#apponline{
+    background-color: rgb(0, 0, 37);
+    border: 2px solid rgb(0, 0, 37);
+    width: 89px;
+    height: 100%;
+    border-radius: 2px;
+    float: left;
+    font-size: 9PX;
+    color: azure;
+    text-align: center;
+    padding-top: 7px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
+#top1{
+    width: 785px;
+    float: left;
+    display: flex;
+    height: 25px;}
+.telephone{
+    color: rgb(0, 0, 0);
+    margin-left: 200px;
+    display: flex;
+}
+#contact
+{
+    color: rgb(255, 255, 255);
+    font-size: 8px;
+    padding-left: 3px;
+     font-family:Arial, Helvetica, sans-serif ;
+     display: flex;
+}
+img{
+    width: 12px;
+    height: 9px;
+    color: aliceblue;
+    display: flex;
+}
+.gmail
+{
+    color: white;
+    font-size: 8px;
+    padding-left: 3px;
+     font-family:Arial, Helvetica, sans-serif ;  
+     display: flex;
+}
+.location{
+    width: 12px;
+    height: 11px;
+    color: aliceblue;
+    display: flex;
+}
+#locate
+{
+    color: white;
+    font-size: 8px;
+    padding-left: 3px;
+     font-family:Arial, Helvetica, sans-serif ;
+     display: flex;  
+}
+#fb{
+    padding: auto;
+    margin-left: 100px;    
+    display: flex;
+}
+.fblogo{
+    
+    width: 22px;
+    height: 19px;
+    display: flex;
+}
+.twitlogo{
+    width: 19px;
+    height: 14px;
+    display: flex;
+}
+.ytlogo{
+    width: 25px;
+    height: 19px;
+    align-items: center;
+    display: flex;
+}
+
+/*---second line--------------*/
+#main2{
+    
+    width: 100%;
+    height: 47px;
+    border-shadow:black 2px  ;
+   display: flex;
+  
+}  
+#riitlogo{
+    margin-left: 0px;
+    display: flex;
+    float:left;
+    height: 45px;
+    width: 36%;
+}
+.home{
+    display: flex;
+float:left;
+height: 45px;
+}
+
+.about{
+    display: flex;
+float: left;
+height: 45px;
+}
+
+.Courses{
+    display: flex;
+float:left;
+height: 45px;
+}
+
+.Admission{
+    display: flex;
+float: left;
+height: 45px;
+}
+
+.Gallery{
+    display: flex;
+float:left;
+height: 45px;
+}
+
+.Zone{
+    display: flex;
+float:left;
+height: 45px;
+}
+
+.Contact{
+    display: flex;
+float:left;
+height: 45px;
+}
+
+.login{
+    display: flex; 
+    float:left;
+    height: 45px;
+}
+
+.search{
+    display: flex;
+ float:left;
+ height: 45px;
+}
+/*---button---*/
+.home1{
+    margin-top: 10px;
+    border-radius:12px;
+    border: 1px solid #ffffff;
+    background-color:white;
+    color:rgb(0, 0, 0);
+    height:75%
+    display: flex; 
+}
+.about1{
+    margin-top: 10px;
+    border-radius:12px;
+    border: 1px solid #ffffff;
+    background-color:white;
+    color:rgb(0, 0, 0);
+    height:75%
+    display: flex;
+    
+}
+.Courses1{
+    margin-top: 10px;
+    border-radius:12px;
+    border: 1px solid #ffffff;
+    background-color:white;
+    color:rgb(0, 0, 0);
+    height:75%;
+    display: flex;
+}
+.Admission1{
+    margin-top: 10px;
+    border-radius:12px;
+    border: 1px solid #ffffff;
+    background-color:white;
+    color:rgb(0, 0, 0);
+    height:75%;
+    display: flex;    
+}
+.Zone1{
+    margin-top: 10px;
+    border-radius:12px;
+    border: 1px solid #ffffff;
+    background-color:white;
+    color:rgb(0, 0, 0);
+    height:75%;
+    display: flex;
+   
+}
+.Gallery1{
+    margin-top: 10px;
+    border-radius:12px;
+    border: 1px solid #ffffff;
+    background-color:white;
+    color:rgb(0, 0, 0);
+    height:75%;
+    display: flex;
+   
+}
+.Contact1{
+    margin-top: 10px;
+    border-radius:12px;
+    border: 1px solid #ffffff;
+    background-color:white;
+    color:rgb(0, 0, 0);
+    height:75%;
+    display: flex;
+    
+}
+.login1{
+    margin-top: 10px;
+    border-radius:12px;
+    border: 1px solid #ffffff;
+    background-color:white;
+    color:rgb(0, 0, 0);
+    height:75%;
+    display: flex;
+}
+
+.search1{
+    padding-top: 12px;
+    margin-top: px;
+    border-radius:12px;
+    border: 1px solid #ffffff;
+    background-color:white;
+    color:rgb(0, 0, 0);
+    height:65%;
+    display: flex;
+}
+#logowide{
+    width: 38%;
+    height: 85%;
+    margin: 8px 45px 12px 85px;
+    display: flex;
+}
+#search11{
+    margin-top: 19px;
+    margin-left: 12px;
+    height: 16px;
+    width: 16px;
+    display: flex;
+}
+/*hower*/
+.home1:hover{
+    margin-top: 10px;
+    border-radius:12px;
+    border: 1px solid rgb(0, 0, 54);
+    background-color:rgb(0, 0, 54);
+    color:rgb(255, 255, 255);
+}
+.about1:hover
+{
+    margin-top: 10px;
+    border-radius:12px;
+    border: 1px solid rgb(0, 0, 54);
+    background-color:rgb(0, 0, 54);
+    color:rgb(255, 255, 255);
+    
+    
+}
+.Courses1:hover
+{
+    margin-top: 10px;
+    border-radius:12px;
+    border: 1px solid rgb(0, 0, 54);
+    background-color:rgb(0, 0, 54);
+    color:rgb(255, 255, 255);
+   
+}
+.Admission1:hover
+{
+    margin-top: 10px;
+    border-radius:12px;
+    border: 1px solid rgb(0, 0, 54);
+    background-color:rgb(0, 0, 54);
+    color:rgb(255, 255, 255);
+  
+}
+.Zone1:hover
+{
+    margin-top: 10px;
+    border-radius:12px;
+    border: 1px solid rgb(0, 0, 54);
+    background-color:rgb(0, 0, 54);
+    color:rgb(255, 255, 255);
+    
+}
+.Gallery1:hover
+{
+    margin-top: 10px;
+    border-radius:12px;
+    border: 1px solid rgb(0, 0, 54) ;
+    background-color:rgb(0, 0, 54);
+    color:rgb(255, 255, 255);
+    
+}
+.Contact1:hover
+{
+    margin-top: 10px;
+    border-radius:12px;
+    border: 1px solid rgb(0, 0, 54);
+    background-color:rgb(0, 0, 54);
+    color:rgb(255, 255, 255);
+   
+}
+.login1:hover
+{
+    margin-top: 10px;
+    border-radius:12px;
+    border: 1px solid rgb(0, 0, 54);
+    background-color:rgb(0, 0, 54);
+    color:rgb(255, 255, 255);
+    
+}
+.search1:hover
+{
+    margin-top: 10px;
+    border-radius:12px;
+    border: 1px solid rgb(0, 0, 54);
+    background-color:rgb(0, 0, 54);
+}   
+#search11:hover{
+    margin-top: 19px;
+    height: 18px;
+    width: 18px;;
+    background-color: rgb(245, 2, 2);
+    padding-left: 3px;
+    border-radius:12px;
+
+}
+
+a{
+    text-decoration: none;
+    color: #000000;
+}
+a:hover{
+    color:  white;
+}
+ #slider{
+    border: 1px solid white;
+    background-color: blue;
+    width: 100%;
+    height: 390px;
+}
+#slide1{
+    height: 390px;
+    width: 100%;
+    float: left;
+   
+}
+#slide2{
+    height: 390px;
+    width: 100%;
+    float: left;
+}
+#slide3{
+    height: 390px;
+    width: 100%;
+    float: left;
+
+}
+#bg1{
+    height: 390px;
+    width: 100%; 
+}
+
+
+
+
+
